@@ -1,0 +1,4 @@
+CODIGO GENERADO
+
+BASE { "inicio", "proceso", "fin", "si", "ver", "mientras", "entero", "cadena" };
+NUEVO { "start", "dev", "end", "if", "display", "while", "int", "string" };

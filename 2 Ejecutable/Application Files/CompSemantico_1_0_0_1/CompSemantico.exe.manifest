@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CompSemantico.exe" version="1.0.0.1" publicKeyToken="ccd7bd5fbe52becc" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CompSemantico" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CompSemantico.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CompSemantico.exe" size="2694096">
+      <assemblyIdentity name="CompSemantico" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nHNAu5YbH8Ea4svy/OoASV1dQY9LgFpcGrT3Z8Cb4nw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CompSemantico.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LIVANHERRERA\livan" issuerKeyHash="bf7077ad56a35ea6f1b3d23bc30eafc11b0f3fec" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>bjpVHCzFJtgCXt/XMzsuJh2GMrGYRnDyi2/5FlPgDso=</DigestValue></Reference></SignedInfo><SignatureValue>D3ntYUwe+n/FGtOzIuFbli1tZuqwVh4lDe+6ryVyqQC1lrJFAECD55uVwQAoR5tgc3CqhlVU6v2hqp4PQp7l9ToExXqqHdkUbIoxYMgV/wPdD3CvVa2rdCJQEU1HZuUI6eppk/Uo00wu4vUW9QbTQLwoxS4FbrxzJT2MF7UwnAw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rZlMlnfUcP2y3DyrEnV59DWOFMEgmiNQTSMcezATbmAuqgvBtlfANR0z5BoyAA0qHo5SlZ1UU32nxkeXi4I7bMn+fPu9GoVNExN/c34+ODp09GpTSlhjn3EvrTOfIPj1/vvZQoEsOPbbLz3UpXQGTjSwgIqdHMIQe+iQsd6vb9E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ca0ee05316f96f8bf2704698b132861d262e3b33d7df5e02d826c52c1c553a6e" Description="" Url=""><as:assemblyIdentity name="CompSemantico.exe" version="1.0.0.1" publicKeyToken="ccd7bd5fbe52becc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LIVANHERRERA\livan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>zkqIjbR/6uHEIqmyLtukL5rJMnGWrEZYE+mctXuySSk=</DigestValue></Reference></SignedInfo><SignatureValue>Yn0ly30bjhZ2vRA/8X3XxNMepQc/EgQRZI8+WFM6ebGVE2D4BQ+lRfRFSravir6nKzCCyBOlnWkfkavcKGPdgNZWhWfeEgyHp2gl2JPcWQKRR6nC/gwbqqJ5H/ZD17gYeQrNxMvEZBMXC9iiqCsTCgysNG+44m6e3KAG0f9suLs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rZlMlnfUcP2y3DyrEnV59DWOFMEgmiNQTSMcezATbmAuqgvBtlfANR0z5BoyAA0qHo5SlZ1UU32nxkeXi4I7bMn+fPu9GoVNExN/c34+ODp09GpTSlhjn3EvrTOfIPj1/vvZQoEsOPbbLz3UpXQGTjSwgIqdHMIQe+iQsd6vb9E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQSFHqSoBT4YtHDtLahF5hHDANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQATABJAFYAQQBOAEgARQBSAFIARQBSAEEAXABsAGkAdgBhAG4wHhcNMjIwMzA3MDIyNTM5WhcNMjMwMzA3MDgyNTM5WjAvMS0wKwYDVQQDHiQATABJAFYAQQBOAEgARQBSAFIARQBSAEEAXABsAGkAdgBhAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK2ZTJZ31HD9stw8qxJ1efQ1jhTBIJojUE0jHHswE25gLqoLwbZXwDUdM+QaMgANKh6OUpWdVFN9p8ZHl4uCO2zJ/nz7vRqFTRMTf3N+Pjg6dPRqU0pYY59xL60znyD49f772UKBLDj22y891KV0Bk40sICKnRzCEHvokLHer2/RAgMBAAEwDQYJKoZIhvcNAQELBQADgYEATajVon4y0b5NdftdV6TSKhBNPlSw6LlnvyuypeFLeXVcZszz6g6yPkHCP6TfAR7+bJ5Jqukugd+as5g7tr5cofJZ3JZm8/QbArpJYIk2Yfy4UiRJi6hNwpD5OXAKkVhGK/djIweV6UC2JlK5YGgXgtS2PYWEuPmEhKzBbNI6r/4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,8 @@
+Palabras reservadas: inicio, proceso, fin, si, ver, mientras, entero, cadena
+Variables (indicador de variable): var (la palabra reservada var debe ir acompañada de un número, ejemplo: var5)
+Asignacion de valor: '#' (Ejemplo: entero var5 # 5)
+Final de linea de código: ';' 
+Inicio y fin de una sección de código: '{ }'
+Comentario: '@' (Ejemplo: @ Hola Mundo)
+
+Nota: Cada signo o palabra debe estar separada por espacios, ya que si no se encuentra escrito de esta forma el analizador léxico lo detectará como error.

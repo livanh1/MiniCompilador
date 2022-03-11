@@ -1,0 +1,36 @@
+inicio ;
+
+cadena var1 # "hola" ;
+entero var5 # 23 ;
+
+proceso ; 
+
+si ( 23 == var5 )
+{
+ver "LIVAN HERRERA ANALIZADOR" ;
+}
+
+fin ;
+
+--------------------------------------------------------------------
+
+inicio ; 
+
+cadena var2 # "Hola" ;
+entero var3 # 5 ;
+cadena var4 # "Livan" ;
+
+fin ;
+
+--------------------------------------------------------------------
+
+inicio ; 
+
+entero var1 # "Hola" ;
+entero var2 # 6 ;
+entero var3 # 5 ;
+entero var4 ;
+
+var4 == var2 + var3 ;
+
+fin ;

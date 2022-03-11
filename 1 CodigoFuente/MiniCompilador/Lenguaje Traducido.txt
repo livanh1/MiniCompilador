@@ -1,0 +1,8 @@
+Palabras reservadas: start, dev, end, if, display, while, int, string
+Variables (indicador de variable): var (la palabra reservada var debe ir acompañada de un número, ejemplo: var5)
+Asignacion de valor: '=' (Ejemplo: entero var5 = 5)
+Final de linea de código: ';' 
+Inicio y fin de una sección de código: '{ }'
+Comentario: '//' (Ejemplo: // Hola Mundo)
+
+Nota: El lenguaje traducido es similar al lenguaje C#, con las diferencias de las palabras reservadas start, dev y end.

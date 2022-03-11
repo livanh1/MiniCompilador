@@ -1,0 +1,42 @@
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\bin\Debug\CompSemantico.exe.config
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\bin\Debug\CompSemantico.exe
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\bin\Debug\CompSemantico.pdb
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.csprojAssemblyReference.cache
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.Form1.resources
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.Properties.Resources.resources
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.csproj.GenerateResource.cache
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.csproj.CoreCompileInputs.cache
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.exe
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.pdb
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\bin\Debug\CompSemantico.exe.manifest
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\bin\Debug\CompSemantico.application
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.exe.manifest
+C:\Users\livan\OneDrive\Desktop\CompSemantico\CompSemantico\obj\Debug\CompSemantico.application
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\bin\Debug\CompSemantico.exe.config
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\bin\Debug\CompSemantico.exe.manifest
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\bin\Debug\CompSemantico.application
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\bin\Debug\CompSemantico.exe
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\bin\Debug\CompSemantico.pdb
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.csprojAssemblyReference.cache
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.Form1.resources
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.Properties.Resources.resources
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.csproj.GenerateResource.cache
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.csproj.CoreCompileInputs.cache
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.exe.manifest
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.application
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.exe
+C:\Users\livan\OneDrive\Desktop\CompSemantico - Copy\CompSemantico\obj\Debug\CompSemantico.pdb
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.exe.config
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.exe.manifest
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.application
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.exe
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.pdb
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.csprojAssemblyReference.cache
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.Form1.resources
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.Properties.Resources.resources
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.csproj.GenerateResource.cache
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.csproj.CoreCompileInputs.cache
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.exe.manifest
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.application
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.exe
+C:\Users\livan\OneDrive\Desktop\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.pdb
